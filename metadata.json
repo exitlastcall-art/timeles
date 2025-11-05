@@ -1,0 +1,7 @@
+{
+  "name": "Timeless",
+  "description": "A service to store videos, messages, and files to be delivered to loved ones in the future. Uses AI to help craft heartfelt messages and generate unique capsule cover images.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
